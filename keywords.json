@@ -1,0 +1,16 @@
+{
+    "Aatrox": ["entries/Aatrox.json"],
+    "Atrox": ["entries/Atrox.json"],
+    "Ahri": ["entries/Ahri.json"],
+    "Akali": ["entries/Akali.json"],
+    "Akshan": ["entries/Akshan.json"],
+    "Alistar": ["entries/Alistar.json"],
+    "Amumu": ["entries/Amumu.json"],
+    "Anivia": ["entries/Anivia.json"],
+    "Annie": ["entries/Annie.json"],
+    "Aphelios": ["entries/Aphelios.json"],
+    "Ashe": ["entries/Ashe.json"],
+    "Aurelion Sol": ["entries/Aurelion.json"],
+    "Asol": ["entries/Aurelion.json"],
+    "Azir": ["entries/Azir.json"]
+}
