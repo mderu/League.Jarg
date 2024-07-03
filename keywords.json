@@ -1,6 +1,6 @@
 {
     "name": "League of Legends Champions",
-    "definition_url_template": "/pages/{definition.html}",
+    "definition_url_template": "/pages/{definition}.html",
     "definitions": [
         "aatrox"
     ],
